@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asyncdeveloper_p:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="asyncdeveloper-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="asyncdeveloper_p:war exploded" />
+    </root>
+  </artifact>
+</component>
