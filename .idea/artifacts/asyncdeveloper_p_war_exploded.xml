@@ -7,6 +7,8 @@
           <element id="module-output" name="asyncdeveloper_p" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.oracle.jdbc:ojdbc8:12.2.0.1" />
+          <element id="library" level="project" name="Maven: com.oracle.jdbc:ucp:12.2.0.1" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.0.0.RELEASE" />
@@ -62,7 +64,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.4.RELEASE" />
-          <element id="library" level="project" name="Maven: com.oracle:ojdbc7:12.1.0.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
